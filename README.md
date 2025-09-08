@@ -2,7 +2,7 @@
 > paper title: "Equilibrium-Based NFT Marketplace Recommendation for NFTs with Breeding"
 
 ## usage
-0. view full paper with proof at `full_paper.pdf`
+0. view full paper with proof at [full_paper.pdf](full_paper.pdf)
 
 1. download the NFT data
 ```bash
